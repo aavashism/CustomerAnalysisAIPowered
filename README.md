@@ -7,7 +7,7 @@ This program is designed to provide an interactive and comprehensive solution fo
 
 ## Features
 
-### Data Generation
+### Data Generation or Upload their own data in the correct format.
 - Includes a module for generating synthetic customer purchase data with customizable parameters.
 - Automatically creates datasets (`customer_purchase_data.csv`) for analysis, ensuring realistic distributions for testing and evaluation.
 - Allows users to upload their own datasets for customized analysis.
