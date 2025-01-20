@@ -158,7 +158,7 @@ AI_Customer_Analysis/
 
 ## Example
 
-1. Launch the program:
+1. Launch the program inside the virtual environment:
    ```bash
    python src/main.py
    ```
