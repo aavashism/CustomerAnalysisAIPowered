@@ -83,6 +83,7 @@ pip install -r requirements.txt
      ```bash
      python src/main.py
      ```
+   - NOTE: FIRST TIME U RUN 'main.py', IT MAY TAKE UPTO 60 SECONDS TO RUN. Please be patient. This WONT happen after running the first time.  
    - Now use it according to the interactive interface. 
    - When you will be prompted to input a **Customer ID** (e.g., `CUST0001`or any other customer from the database) to generate a personalized PDF report, data analysis and other outputs.
 
