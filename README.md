@@ -42,14 +42,11 @@ Before running the program, ensure you have the following installed:
 - Python 3.8+
 - Required libraries (listed in `requirements.txt`)
 
-To install dependencies, run:
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
-## Setting Up the Virtual Environment
+
+## How to Run: 
+## Step 1: Setting Up the Virtual Environment
 
 It is recommended to use a virtual environment to manage dependencies. Follow these steps based on your operating system:
 
@@ -73,19 +70,20 @@ python -m venv venv
 # Activate the virtual environment
 venv\Scripts\activate
 
-# Install dependencies
+# Install dependencies 
 pip install -r requirements.txt
 ```
 
 ---
 
-## How to Run the Program
+## Step 2: Run the Program
 
 1. **Run the Main Script**:
    - Execute the program by running `main.py`:
      ```bash
      python src/main.py
      ```
+   - Now use it according to the interactive interface. 
    - You will be prompted to input a **Customer ID** (e.g., `CUST0001`) to generate a personalized PDF report and other outputs.
 
 2. **First-Time Execution**:
@@ -123,7 +121,7 @@ AI_Customer_Analysis/
 │   ├── all_products.csv              # Full product sales analysis
 │   ├── all_categories.csv            # Full category sales analysis
 │   ├── full_avg_spending.csv         # Full average spending per customer
-│   ├── visualizations/               # Output visualizations for the PDF report
+├── visualizations/                   # Output visualizations for the PDF report
 │   │   ├── top_categories.png        # Bar chart for top-selling categories
 │   │   ├── customer_segments.png     # Pie chart for customer segments
 │   │   └── monthly_revenue.png       # Line chart for monthly revenue trends
