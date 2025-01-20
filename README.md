@@ -84,7 +84,7 @@ pip install -r requirements.txt
      python src/main.py
      ```
    - Now use it according to the interactive interface. 
-   - You will be prompted to input a **Customer ID** (e.g., `CUST0001`) to generate a personalized PDF report and other outputs.
+   - When you will be prompted to input a **Customer ID** (e.g., `CUST0001`or any other customer from the database) to generate a personalized PDF report, data analysis and other outputs.
 
 2. **First-Time Execution**:
    - The first run may take up to **60 seconds** to process data, perform clustering, and set up necessary resources.
