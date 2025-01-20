@@ -106,7 +106,7 @@ AI_Customer_Analysis/
 │   ├── all_products.csv              # Full product sales analysis
 │   ├── all_categories.csv            # Full category sales analysis
 │   ├── full_avg_spending.csv         # Full average spending per customer
-├── visualizations/                   # Output visualizations for the PDF report
+│   ├── visualizations/               # Output visualizations for the PDF report
 │   │   ├── top_categories.png        # Bar chart for top-selling categories
 │   │   ├── customer_segments.png     # Pie chart for customer segments
 │   │   └── monthly_revenue.png       # Line chart for monthly revenue trends
